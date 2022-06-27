@@ -1,0 +1,69 @@
+
+.login{
+  background-color: grey;
+}
+body{
+ background-color: blue;
+
+  font-family: sans-serif;}
+  h1{
+  font-size: 60px;
+  color: #041C32;
+}
+h2{
+  font-size: 40px;
+  color: #064663;
+}
+p{
+  font-size: 30px;
+  color: red;
+}.marq{
+
+background-color: red;
+}
+button{
+  color: white;
+  background-color: black;
+  border-radius: 0;
+  height: 50px;
+  width: 120px;
+  cursor: pointer;
+}
+.loc{
+  height: 40px;
+}
+.contact{
+  background-color: grey;
+  padding-top: 10px;
+}
+#ad{
+  background-color: purple;
+}
+
+
+.admin{
+  background-color: #980F5A;
+  color: white;
+  height: 300px;
+  width: 3;
+  font-size: 60px;
+
+}
+table{
+
+   border :3px;
+   color :black;
+   width:100%;}
+
+
+  th, td {
+    text-align: center;
+    padding: 10px;
+  }
+
+  tr:nth-child(even) {
+    background-color:#F39D73;
+  }
+  tr:nth-child(odd) {
+  	background-color:#F373D8;
+  }
